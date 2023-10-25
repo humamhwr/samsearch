@@ -24,7 +24,7 @@
   ],
   "callToAction": {
     "text": "Get started",
-    "href": "#"
+    "href": "https://searchgov-ui.vercel.app/"
   },
   "mainHero": {
     "title": "Revolutionizing",
@@ -33,7 +33,7 @@
     "img": "/assets/images/header.png",
     "primaryAction": {
       "text": "Get started",
-      "href": "#"
+      "href": "https://searchgov-ui.vercel.app/"
     },
     "secondaryAction": {
       "text": "Email us",
