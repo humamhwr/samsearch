@@ -85,9 +85,24 @@
   "pricing": {
     "title": "",
     "items": [
-      
-     
-      
+      {
+        "name": "The first plan",
+        "features": ["cool", "nice"],
+        "price": 100,
+        "priceDetails": "Details"
+      },
+      {
+        "name": "The first plan",
+        "features": ["cool", "nice"],
+        "price": 100,
+        "priceDetails": "Details"
+      },
+      {
+        "name": "The first plan",
+        "features": ["cool", "nice"],
+        "price": 100,
+        "priceDetails": "Details"
+      }
     ]
   },
   "about": {
