@@ -30,14 +30,14 @@
     "title": "Revolutionizing",
     "subtitle": "Government Contract Search.",
     "description": "",
-    "img": "/assets/images/header.png",
+    "img": "/assets/images/tester.png",
     "primaryAction": {
-      "text": "Get started",
+      "text": "Try it for Free",
       "href": "https://searchgov-ui.vercel.app/"
     },
     "secondaryAction": {
       "text": "Email us",
-      "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
+      "href": "mailto:humam.hawara@yeupay.com?subject=Ask me about SamSearch!"
     }
   },
   "product": {
