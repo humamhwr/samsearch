@@ -59,10 +59,10 @@ const Menu = () => {
                 </Link>
               ))}
               <a
-                href="#"
-                className={`font-medium text-primary hover:text-secondary`}
+                href="https://searchgov-ui.vercel.app/"
+                className={`font-medium text-primary hover:black`}
               >
-                Call to action
+                Try it for Free
               </a>
             </div>
           </nav>
@@ -106,7 +106,7 @@ const Menu = () => {
                     duration={1000}
                     key={item.name}
                     to={item.href}
-                    className="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50"
+                    className="block px-3 py-2 rounded-md text-base font-medium text-white-700 hover:text-black-900 hover:bg-black-50"
                   >
                     {item.name}
                   </Link>

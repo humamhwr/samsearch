@@ -23,7 +23,7 @@
     }
   ],
   "callToAction": {
-    "text": "Get started",
+    "text": "Get Started",
     "href": "https://searchgov-ui.vercel.app/"
   },
   "mainHero": {
@@ -36,8 +36,8 @@
       "href": "https://searchgov-ui.vercel.app/"
     },
     "secondaryAction": {
-      "text": "Email us",
-      "href": "mailto:humam.hawara@yeupay.com?subject=Ask me about SamSearch!"
+      "text": "Request a Demo",
+      "href": "https://wkyf9gp3hf8.typeform.com/to/i9AnxWHJ"
     }
   },
   "product": {
@@ -45,12 +45,12 @@
     "items": [
       {
         "title": "Instantly search through thousands of governmental contracts",
-        "description": "Emdii is designed to save you valuable time and effort by delivering lightning-fast and highly accurate search results for governmental contracts across the United States. Our cutting-edge technology scours a vast database of contracts, ensuring you have access to the most up-to-date and relevant opportunities",
+        "description": "SamSearch is designed to save you valuable time and effort by delivering lightning-fast and highly accurate search results for governmental contracts across the United States. Our cutting-edge technology scours a vast database of contracts, ensuring you have access to the most up-to-date and relevant opportunities",
         "img": "/assets/images/search.png"
       },
       {
         "title": "Sit back and relax!",
-        "description": "Emdii goes beyond simple contract searching. Our AI-driven capabilities enable you to generate contract drafts effortlessly and submit competitive bids with confidence!",
+        "description": "SamSearch goes beyond simple contract searching. Our AI-driven capabilities enable you to generate contract drafts effortlessly and submit competitive bids with confidence!",
         "img": "/assets/images/golf.png"
       }
     ]
@@ -71,12 +71,12 @@
         "icon": "/assets/images/auction.png"
       },
       {
-        "name": "Risk Assessment",
-        "description": "ContractFinder Pro employs advanced AI to assess potential risks associated with contracts, ensuring you make informed decisions before submitting bids.",
+        "name": "Profile - Contract matching ",
+        "description": "Effortlessly manage contracts, track statuses, and simplify reviews, approvals, and renewals in one user-friendly dashboard, all while maintaining compliance and reducing administrative overhead.",
         "icon": "/assets/images/compliance.png"
       },
       {
-        "name": "Compliance Assurance",
+        "name": "Contract Management Dashboard",
         "description": "Stay compliant with governmental regulations and requirements effortlessly. Our AI checks your contract drafts for adherence to legal standards and agency-specific guidelines.",
         "icon": "/assets/images/conclusion.png"
       }
@@ -85,45 +85,28 @@
   "pricing": {
     "title": "",
     "items": [
-      {
-        "name": "The first plan",
-        "features": ["cool", "nice"],
-        "price": 100,
-        "priceDetails": "Details"
-      },
-      {
-        "name": "The first plan",
-        "features": ["cool", "nice"],
-        "price": 100,
-        "priceDetails": "Details"
-      },
-      {
-        "name": "The first plan",
-        "features": ["cool", "nice"],
-        "price": 100,
-        "priceDetails": "Details"
-      }
+      
     ]
   },
   "about": {
     "sections": [
       {
-        "name": "Something",
+        "name": "",
         "href": "#",
         "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
       },
       {
-        "name": "Something",
+        "name": "",
         "href": "#",
         "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
       },
       {
-        "name": "Something",
+        "name": "",
         "href": "#",
         "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
       },
       {
-        "name": "Something",
+        "name": "",
         "href": "#",
         "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
       }
